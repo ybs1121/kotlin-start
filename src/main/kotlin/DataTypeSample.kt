@@ -1,6 +1,5 @@
 package com.study
 
-
 class DataTypeSample {
     companion object {
         @JvmStatic
